@@ -1,0 +1,2 @@
+Lecture 6 ---->
+        Q1: -ve Decimal to Binary
