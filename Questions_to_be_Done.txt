@@ -1,2 +1,16 @@
 Lecture 6 ---->
         Q1: -ve Decimal to Binary
+        
+Lecture 8 ---->
+        Q1:  Exit out of infinite loop using switch case without using break statement inside of loop
+
+        Q2:  Why we can't use continue inside switch statement
+
+        Q3:  Divide amount of 1330 into notes of 100,50,20,1 as 13, 0, 1, 10 respectively using switch statement
+
+        Q4:  A.P (3*n + 7) using functions
+        
+        Q5:  Total number of set bits
+
+        Q6:  Fibonacci series. nth fibonacci term.
+
