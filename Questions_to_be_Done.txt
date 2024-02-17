@@ -1,7 +1,7 @@
-Lecture 6 ---->
+Lecture 6 (Decimal to Binary Conversion) ---->
         Q1: -ve Decimal to Binary
         
-Lecture 8 ---->
+Lecture 8 (Switch statement and Functions) ---->
         Q1:  Exit out of infinite loop using switch case without using break statement inside of loop
 
         Q2:  Why we can't use continue inside switch statement
@@ -13,4 +13,17 @@ Lecture 8 ---->
         Q5:  Total number of set bits
 
         Q6:  Fibonacci series. nth fibonacci term.
+
+Lecture 9 (Arrays) -----> 
+
+        Q1:  How to initialize array
+         with any other number rather than 1?
+
+        Q2:  Sum all elements of an array.
+
+Lecture 10 (Arrays Problem)
+
+        Q1:  Find Unique number of Occurences.
+
+        Q2:  Find all duplicates in an array.
 
