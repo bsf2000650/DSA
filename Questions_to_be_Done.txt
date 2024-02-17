@@ -27,3 +27,8 @@ Lecture 10 (Arrays Problem)
 
         Q2:  Find all duplicates in an array.
 
+        Q3:  Triplets Sum.
+
+        Q4:  Sort 0 1 2.
+
+
