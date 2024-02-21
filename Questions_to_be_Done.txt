@@ -31,4 +31,8 @@ Lecture 10 (Arrays Problem)
 
         Q4:  Sort 0 1 2.
 
+Lecture 15 (Binary Search Problems Part 3)
+
+        Q1. Painter's Partition Problem
+
 
