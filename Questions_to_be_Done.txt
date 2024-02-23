@@ -35,4 +35,8 @@ Lecture 15 (Binary Search Problems Part 3)
 
         Q1. Painter's Partition Problem
 
+Lecture 20 (Leet Code Problems)
+
+        Q1. Merge two sorted Arrays
+
 
