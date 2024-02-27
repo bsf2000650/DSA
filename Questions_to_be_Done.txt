@@ -49,4 +49,8 @@ Lecture 22 (All About Char Arrays, Strings & Solving Leet Code)
 
         Q4. Remove all duplicates from a string
 
+Lecture 23 (2D Arrays)
+
+        Q1. Rotate by 90 Degrees
+
 
