@@ -35,22 +35,4 @@ Lecture 15 (Binary Search Problems Part 3)
 
         Q1. Painter's Partition Problem
 
-Lecture 20 (Leet Code Problems)
-
-        Q1. Merge two sorted Arrays
-
-Lecture 22 (All About Char Arrays, Strings & Solving Leet Code)
-
-        Q1. Check if a string is a palindrome
-
-        Q2. Key difference between chars and strings
-
-        Q3. Reverse words in a string
-
-        Q4. Remove all duplicates from a string
-
-Lecture 23 (2D Arrays)
-
-        Q1. Rotate by 90 Degrees
-
 
