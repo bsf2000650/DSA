@@ -17,18 +17,28 @@ int main(){
     // cout << "9th " << *(arr+2) << endl;
     // int i = 2;
     // cout << i[arr] << endl;
-    
 
-    int temp[10] = {1,2};
 
-    cout << sizeof(temp) << endl;
-    cout << "1st " << sizeof(*temp) << endl;
-    cout << "2nd " << sizeof(&temp) << endl;
+    // int temp[10] = {1,2};
 
-    int *ptr = &temp[0];
-    cout << sizeof(ptr) << endl;
-    cout << sizeof(*ptr) << endl;
-    cout << sizeof(&ptr) << endl;
+    // cout << sizeof(temp) << endl;
+    // cout << "1st " << sizeof(*temp) << endl;
+    // cout << "2nd " << sizeof(&temp) << endl;
+
+    // int *ptr = &temp[0];
+    // cout << sizeof(ptr) << endl;
+    // cout << sizeof(*ptr) << endl;
+    // cout << sizeof(&ptr) << endl;
+
+    int a[20] = {1,2,3,4};
+    cout << " -> " << &a[0] << endl;
+    cout << " -> " << &a << endl;
+    cout << " -> " << a << endl;
+
+    int *p = &a[0];
+    cout << p << endl;
+    cout << *p << endl;
+    cout << " -> " << &p << endl;
 
     return 0;
 }
