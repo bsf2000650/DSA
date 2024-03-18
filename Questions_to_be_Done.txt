@@ -70,5 +70,26 @@ Lecture 23 : 2D Arrays
         Q4. Factorial (212!)
 
 
+Lecture 33 : Reccursion (Part 3)
+
+        Q1. Sum of Array elements using Reccursion ([1,2,3,4,5]=15)
+
+Lecture 35 : Reccursion (Part 4)
+
+        Q1. Inversion Count Problem
+
+        Q2. TC -> O(nlogn) Explore (How)
+
+Lecture 42 : OOP Intro
+
+        Q1. Const keyword
+                Data member/Object Creation  functions
+                Intilization List
+
+Lecture 43 : OOP 2
+
+        Q1. Hybrid Inheritance
+
+
 
 
