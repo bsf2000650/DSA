@@ -90,6 +90,12 @@ Lecture 43 : OOP 2
 
         Q1. Hybrid Inheritance
 
+Lecture 48 : Linked List  
+
+        Q1. Remove duplicates from unsorted Linked List
+
+        Q2. Split Linked List into 2 halves
+
 
 
 
