@@ -96,6 +96,15 @@ Lecture 48 : Linked List
 
         Q2. Split Linked List into 2 halves
 
+Lecture 53 : Merge Sort In LL
+
+        Q1. Why prefer Merge Sort in Linked List and Quick Sort in Arrays
+
+        Q2. Flatten Linked List
+
+Lecture 54 : Stack
+
+        Q1. Stack implementation using Linked List
 
 
 
