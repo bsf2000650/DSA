@@ -4,6 +4,7 @@
         "ostream": "cpp",
         "sstream": "cpp",
         "vector": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "regex": "cpp"
     }
 }
